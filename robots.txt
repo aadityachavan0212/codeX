@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# TODO: after the production URL is confirmed, add:
-# Sitemap: https://YOUR-DOMAIN/sitemap.xml
+Sitemap: https://aadityachavan0212.github.io/codeX/sitemap.xml
