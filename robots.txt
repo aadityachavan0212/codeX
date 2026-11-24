@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: after the production URL is confirmed, add:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
